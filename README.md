@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on GSSOC.
 - 🌱 I’m currently learning open-sourcing.
 - 👯 I’m looking to collaborate on beginner projects.
 - 🤔 I’m looking for help with Git.
