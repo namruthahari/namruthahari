@@ -14,4 +14,6 @@
  ## My Streak 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namruthahari" alt="namruthahari" /></p>
  
+ [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/namruthahari/)  
+ 
 
