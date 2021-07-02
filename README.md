@@ -30,7 +30,7 @@
  ## My Streak 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namruthahari" alt="namruthahariStreak" /></p>
  
-![Namrutha Hari Github Stats](https://github-readme-stats.vercel.app/api?username=namruthahari&show_icons=true)       
+![Namrutha Github Stats](https://github-readme-stats.vercel.app/api?username=namruthahari&show_icons=true)       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namruthahari&hide=css)](https://github.com/namruthahari/github-readme-stats)
 
 *NOTE: Top languages does not indicate my skill level, it's just a github metric of languages which I have the used in most of my codes on Github, it's a new feature of [github-readme-stats]*
