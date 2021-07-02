@@ -1,6 +1,6 @@
 <h1 align="center">Hey There!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Namrutha Hari!</h1>
 
-<table>
+<table align="center">
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/namruthahari/count.svg" alt="vistor count" height="25" /></td>
