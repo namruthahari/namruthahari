@@ -37,4 +37,4 @@
  
  # Thanks for visiting!
  
- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/namruthahari/)  
+ <h3 align="center">[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/namruthahari/) </h3>
