@@ -7,6 +7,7 @@
   </tr>
 </table>
 
+ ## About Me:
 - 🌱 I’m currently learning JavaScript and C.
 - 👯 I’m looking to collaborate on beginner projects.
 - 😄 Pronouns: Her/She
@@ -20,7 +21,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## 📫 How to reach me: <a href="https://www.linkedin.com/in/namrutha-hari-/">![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
+## 📫 How to reach me: 
+[![Linkedin Badge](https://img.shields.io/badge/-namruthahari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namrutha-hari-/)](https://www.linkedin.com/in/namrutha-hari-)
 
 ## My Trophies
 <p align = "left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namruthahari" alt="trophyBadge" /></a> </p>
