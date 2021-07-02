@@ -7,13 +7,13 @@
   </tr>
 </table>
 
- ## About Me:
+ ## About Me
 - 🌱 I’m currently learning JavaScript and C.
 - 👯 I’m looking to collaborate on beginner projects.
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I love munching on cakes made by my sister! I am great at eating 😂!
 
- ## Language and Tools:
+ ## Language and Tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -21,7 +21,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## 📫 How to reach me: 
+## 📫 Contact me @: 
 [![Linkedin Badge](https://img.shields.io/badge/-namruthahari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namrutha-hari-/)](https://www.linkedin.com/in/namrutha-hari-)
 
 ## My Trophies
@@ -30,9 +30,10 @@
  ## My Streak 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namruthahari" alt="namruthahariStreak" /></p>
  
-
+![Namrutha Hari Github Stats](https://github-readme-stats.vercel.app/api?username=namruthahari&show_icons=true)       
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namruthahari&hide=css)](https://github.com/namruthahari/github-readme-stats)
 *NOTE: Top languages does not indicate my skill level, it's just a github metric of languages which I have the used in most of my codes on Github, it's a new feature of [github-readme-stats]*
  
- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/namruthahari/)  
+ # Thanks for visiting!
  
-
+ [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/namruthahari/)  
