@@ -21,7 +21,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## 📫 Contact me @: 
+## 📫 Contact me: 
 [![Linkedin Badge](https://img.shields.io/badge/-namruthahari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namrutha-hari-/)](https://www.linkedin.com/in/namrutha-hari-)
 
 ## My Trophies
@@ -37,4 +37,4 @@
  
  # Thanks for visiting!
  
- <h3 align="center">[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/namruthahari/) </h3>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/namruthahari/)
