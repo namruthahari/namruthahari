@@ -9,7 +9,7 @@
 
  ## About Me
 - 🌱 I’m currently learning backend implementation with nodeJS, mongoDB, mongose and dart.
-- 👯 I’m looking to collaborate on beginner projects.
+- 👯 I’m looking to collaborate on real-world projects.
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I love munching on cakes made by my sister! I am great at eating 😂!
 
