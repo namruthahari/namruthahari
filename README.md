@@ -8,8 +8,8 @@
 </table>
 
  ## About Me
-- 🌱 I’m currently learning backend implementation with nodeJS, mongoDB, mongose and dart.
-- 👯 I’m looking to collaborate on real-world projects.
+- 🌱 I’m currently working with SRE concepts like observibility tools and automation tools to reduce toil and improve efficiency within teams.
+- 👯 I’m looking to collaborate on open source projects
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I love munching on cakes made by my sister! I am great at eating 😂!
 
